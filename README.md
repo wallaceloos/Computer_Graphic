@@ -1,1 +1,1 @@
-# Computer_Graphic
+# Computer Graphic
